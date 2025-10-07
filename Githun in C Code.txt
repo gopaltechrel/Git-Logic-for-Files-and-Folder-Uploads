@@ -1,0 +1,36 @@
+Githun in C Code
+
+Microsoft Windows [Version 10.0.22621.4317]
+(c) Microsoft Corporation. All rights reserved.
+C:\Users\Gopal>cd desktop
+C:\Users\Gopal\Desktop>git clone https://github.com/gopaltechrel/ass.git
+Cloning into 'ass'...
+Receiving objects: 100% (3/3), done.
+C:\Users\Gopal\Desktop>cd ass
+C:\Users\Gopal\Desktop\ass>
+
+VS Code
+Microsoft Windows [Version 10.0.22621.4317]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Gopal\Desktop\ass>git add .
+C:\Users\Gopal\Desktop\ass>git commit -m "Hello"
+[main e026110] Hello
+ 1 file changed, 7 insertions(+)
+ create mode 100644 ab.c
+C:\Users\Gopal\Desktop\ass>git push origin main
+To https://github.com/gopaltechrel/ass.git
+   6e4ab2c..e026110  main -> main
+C:\Users\Gopal\Desktop\ass>
+
+Cmd git commands
+1) git clone gitrepositorypath
+1) git clone https://github.com/gopaltechrel/cprograms.git
+
+VS git commands code
+2) git add .
+3) git commit -m description
+3) git commit -m helloprograms
+4) git push origin main
+5) git rm filename
+5) git rm hello.c
